@@ -1,2 +1,3 @@
+diff check
 added file2 to the git
  ihello hello hello
